@@ -1,0 +1,15 @@
+﻿version: '3.9'
+services:
+  products-api:
+    image: products-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+    depends_on: 
+      - products-database
+  products-database:
+    image: mongo
+    ports:
+      - "27017:27017"

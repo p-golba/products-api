@@ -1,0 +1,22 @@
+# This is a generated file. Not intended for manual editing.
+version: "3.9"
+services:
+  products-api:
+    build:
+      context: "C:\\Users\\qccq\\RiderProjects\\ProductsApi\\ProductsApi"
+      dockerfile: "Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net7.0/ProductsApi.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "products-api:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\qccq\\.nuget\\packages:/root/.nuget/packages"
+    - "C:\\Users\\qccq\\RiderProjects\\ProductsApi\\ProductsApi:/app:rw"
+    - "C:\\Users\\qccq\\RiderProjects\\ProductsApi:/src:rw"
+    working_dir: "/app"
