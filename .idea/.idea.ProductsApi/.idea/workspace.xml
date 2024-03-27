@@ -9,11 +9,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13e04b8-e4f1-450e-a2b3-dbe0d5461ab0" name="Changes" comment="" />
+    <list default="true" id="a13e04b8-e4f1-450e-a2b3-dbe0d5461ab0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ProductsApi.Tests/Models/ProductWithHistory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductsApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProductsApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/Features/Products.feature" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/Features/Products.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/Features/Products.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/Features/Products.feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/IProductClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/IProductClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/Models/Product.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/Steps/ProductsStepDefinitions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/Steps/ProductsStepDefinitions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/ProductsApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/ProductsApi.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/ProductsApi.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/ProductsApi.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/TestExecution.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/TestExecution.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ref/ProductsApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ref/ProductsApi.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/refint/ProductsApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/refint/ProductsApi.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/Controllers/ProductsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/Controllers/ProductsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/Models/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/Services/ProductsService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/Services/ProductsService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/bin/Debug/net7.0/ProductsApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/bin/Debug/net7.0/ProductsApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/bin/Debug/net7.0/ProductsApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/bin/Debug/net7.0/ProductsApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ref/ProductsApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ref/ProductsApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/refint/ProductsApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/refint/ProductsApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/rider.project.model.nuget.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f57797d2fd1f4e1db6531f233f94f664b1d910/bf/2102215c/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -32,6 +68,8 @@
     &quot;Docker.Unnamed.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.32655138&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -41,6 +79,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ],
     &quot;rider.external.source.directories&quot;: [
       &quot;C:\\Users\\qccq\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
       &quot;C:\\Users\\qccq\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
@@ -155,7 +196,10 @@
       <workItem from="1711380800686" duration="3451000" />
       <workItem from="1711404382389" duration="353000" />
       <workItem from="1711469610649" duration="3483000" />
-      <workItem from="1711484975929" duration="8362000" />
+      <workItem from="1711484975929" duration="12119000" />
+      <workItem from="1711545742805" duration="13209000" />
+      <workItem from="1711562502578" duration="5649000" />
+      <workItem from="1711572304546" duration="4239000" />
     </task>
     <servers />
   </component>
@@ -164,5 +208,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="LaunchSettings">
+        <watch expression="product" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

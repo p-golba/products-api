@@ -5,9 +5,12 @@ namespace ProductsApi.Tests;
 
 public interface IProductsClient
 {
-    [Get("/Products")]
-    Task<IEnumerable<Product>> GetProducts();
-
+    [Get("/Products/{id}")]
+    Task<Product> GetProduct(string id);
+    
     [Post("/Products")]
     Task<Product> PostProduct(Product newProduct);
+
+    [Put("/Products/{id}")]
+    Task<ApiResponse<Product>> PutProduct(string id, [Body] Product updatedProduct);
 }
