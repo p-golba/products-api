@@ -10,34 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a13e04b8-e4f1-450e-a2b3-dbe0d5461ab0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ProductsApi.Tests/Models/ProductWithHistory.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductsApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProductsApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/Features/Products.feature" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/Features/Products.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/Features/Products.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/Features/Products.feature.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/IProductClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/IProductClient.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/Models/Product.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/Steps/ProductsStepDefinitions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/Steps/ProductsStepDefinitions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/ProductsApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/ProductsApi.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/ProductsApi.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/ProductsApi.Tests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/TestExecution.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/bin/Debug/net6.0/TestExecution.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ProductsApi.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ref/ProductsApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/ref/ProductsApi.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/refint/ProductsApi.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/Debug/net6.0/refint/ProductsApi.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/Controllers/ProductsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/Controllers/ProductsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/Models/Product.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProductsApi/Services/ProductsService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/Services/ProductsService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/bin/Debug/net7.0/ProductsApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/bin/Debug/net7.0/ProductsApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/bin/Debug/net7.0/ProductsApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/bin/Debug/net7.0/ProductsApi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ProductsApi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ref/ProductsApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/ref/ProductsApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/refint/ProductsApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/Debug/net7.0/refint/ProductsApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsApi/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +174,8 @@
       <workItem from="1711484975929" duration="12119000" />
       <workItem from="1711545742805" duration="13209000" />
       <workItem from="1711562502578" duration="5649000" />
-      <workItem from="1711572304546" duration="4239000" />
+      <workItem from="1711572304546" duration="5219000" />
+      <workItem from="1712162832293" duration="1806000" />
     </task>
     <servers />
   </component>

@@ -18,7 +18,7 @@ public class ProductsService
     }
 
     public async Task<List<Product>> GetAsync() =>
-        (await _productsCollection.Find(_ => true).ToListAsync()).ConvertAll(product => (Product) product);
+        (await _productsCollection.Find(_ => true).ToListAsync()).ConvertAll(product =>  product.ToProduct());
 
     public async Task<ProductWithHistory?> GetAsync(string id) =>
         await _productsCollection.Find(product => product.Id == id).FirstOrDefaultAsync();
@@ -36,7 +36,7 @@ public class ProductsService
         }
         var newProduct = new ProductWithHistory(updatedProduct)
         {
-            History = oldProduct.History
+            History = oldProduct!.History
         };
         newProduct.History!.Add(new ProductHistory(oldProduct.ToProduct()));
         await _productsCollection.ReplaceOneAsync(x => x.Id == id, newProduct);
